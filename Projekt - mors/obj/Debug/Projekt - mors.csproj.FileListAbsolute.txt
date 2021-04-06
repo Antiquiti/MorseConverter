@@ -1,0 +1,13 @@
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\bin\Debug\Projekt - mors.exe.config
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\bin\Debug\Projekt - mors.exe
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\bin\Debug\Projekt - mors.pdb
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt - mors.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt___mors.Form1.resources
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt___mors.Properties.Resources.resources
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt - mors.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt - mors.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt - mors.exe
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt - mors.pdb
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt___mors.Form2.resources
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt___mors.Form3.resources
+C:\Users\Paweł\Desktop\studia\programowanie\C#\Projekt - mors\Projekt - mors\obj\Debug\Projekt___mors.Form4.resources

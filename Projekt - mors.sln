@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekt - mors", "Projekt - mors\Projekt - mors.csproj", "{CAF82485-4250-4617-9622-57B9E9E06107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF82485-4250-4617-9622-57B9E9E06107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF82485-4250-4617-9622-57B9E9E06107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF82485-4250-4617-9622-57B9E9E06107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF82485-4250-4617-9622-57B9E9E06107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F828C7-4689-44FF-9DC2-4239C70D5955}
+	EndGlobalSection
+EndGlobal
